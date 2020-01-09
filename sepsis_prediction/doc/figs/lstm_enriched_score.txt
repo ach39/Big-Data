@@ -1,0 +1,6 @@
+  -  LSTM
+Accuracy : 0.448
+F1 score : 0.601156
+Recall   : 1.0
+Precision: 0.429752
+AUC: 0.527397
