@@ -109,7 +109,7 @@ Data from following MIMIC-III tables was extracted and processed to produce data
     2.	Since MIMIC data is timestamped, we leveraged this information to train a RNN network.
 
 
-          ![alt text](https://github.gatech.edu/tweldon7/sepsis_prediction/blob/master/doc/workflow.png)
+          ![alt text](https://github.com/ach39/BigData-for-Health/tree/master/sepsis_prediction/doc/workflow.png)
  
  
 #### Filtering Rules
@@ -170,6 +170,6 @@ CASE_CTRL_FILE   = DATA_DIR + "data20191125.csv"       # randomly sampled contro
 ```
 Sample output
 
-![alt text](https://github.gatech.edu/tweldon7/sepsis_prediction/blob/master/doc/sample_output.png)
+![alt text](https://github.com/ach39/BigData-for-Health/tree/master/sepsis_prediction/doc/sample_output.png)
 
 
