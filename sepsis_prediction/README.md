@@ -1,5 +1,5 @@
 # Sepsis Prediction in ICU patients
-### achauhan39 , Georgia Institute of Technology, GA 
+### achauhan39
 
 -------------------------------------------------------------
 ## 1. Environment
